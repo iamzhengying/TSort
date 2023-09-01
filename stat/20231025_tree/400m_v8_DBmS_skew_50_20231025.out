@@ -1,0 +1,160 @@
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4240.919955 (ms)
+Construction latency: 19443.824097 (ms)
+Traversal latency: 13349.410915 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7414; 
+avg height: 17, max height: 30
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4347.098432 (ms)
+Construction latency: 19700.579742 (ms)
+Traversal latency: 13200.734260 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7535; 
+avg height: 17, max height: 30
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4296.635383 (ms)
+Construction latency: 19514.744239 (ms)
+Traversal latency: 13295.697876 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7120; 
+avg height: 17, max height: 31
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4293.061964 (ms)
+Construction latency: 19444.033866 (ms)
+Traversal latency: 13289.127553 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7175; 
+avg height: 17, max height: 31
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4194.107850 (ms)
+Construction latency: 19313.657319 (ms)
+Traversal latency: 13362.535757 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7213; 
+avg height: 17, max height: 31
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4453.525751 (ms)
+Construction latency: 19844.988223 (ms)
+Traversal latency: 13535.788563 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7545; 
+avg height: 17, max height: 31
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4385.323537 (ms)
+Construction latency: 19656.567593 (ms)
+Traversal latency: 13559.729839 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7239; 
+avg height: 17, max height: 31
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4295.475967 (ms)
+Construction latency: 19418.898871 (ms)
+Traversal latency: 13202.731811 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7249; 
+avg height: 17, max height: 31
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4440.616894 (ms)
+Construction latency: 19560.814992 (ms)
+Traversal latency: 13079.878129 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7394; 
+avg height: 17, max height: 31
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4355.118091 (ms)
+Construction latency: 19399.633402 (ms)
+Traversal latency: 13142.344376 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7309; 
+avg height: 17, max height: 31
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4651.787859 (ms)
+Construction latency: 16177.495243 (ms)
+Traversal latency: 12427.875517 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 6971; 
+avg height: 15, max height: 22
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4306.767787 (ms)
+Construction latency: 16167.305278 (ms)
+Traversal latency: 12342.453405 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7210; 
+avg height: 15, max height: 23
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4307.186140 (ms)
+Construction latency: 16184.906935 (ms)
+Traversal latency: 12218.337626 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7329; 
+avg height: 15, max height: 22
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4319.851306 (ms)
+Construction latency: 16524.841694 (ms)
+Traversal latency: 12741.116914 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7044; 
+avg height: 15, max height: 22
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4363.647456 (ms)
+Construction latency: 16359.159738 (ms)
+Traversal latency: 12726.885071 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 6970; 
+avg height: 15, max height: 22
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4365.665420 (ms)
+Construction latency: 15977.659267 (ms)
+Traversal latency: 12189.115704 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7014; 
+avg height: 15, max height: 22
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4280.274609 (ms)
+Construction latency: 15990.525201 (ms)
+Traversal latency: 12249.831536 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 6915; 
+avg height: 15, max height: 22
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4192.528298 (ms)
+Construction latency: 16287.545895 (ms)
+Traversal latency: 12168.159263 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 6894; 
+avg height: 15, max height: 22
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4362.542865 (ms)
+Construction latency: 16068.505610 (ms)
+Traversal latency: 12397.066688 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7235; 
+avg height: 15, max height: 22
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 32, Insert thread: 32, Traversal thread: 32, Version: 8
+ETSort v8...
+Initialization latency: 4402.924877 (ms)
+Construction latency: 16116.471259 (ms)
+Traversal latency: 12258.659490 (ms)
+Actual treeNum: 100000; Maximum Tree Node Num: 7501; 
+avg height: 15, max height: 22
+

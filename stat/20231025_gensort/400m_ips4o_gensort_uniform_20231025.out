@@ -1,0 +1,200 @@
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18350.265540 (ms)
+Reading latency: 10088.711088 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18359.558329 (ms)
+Reading latency: 10069.092992 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18590.243456 (ms)
+Reading latency: 10092.631308 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18305.860417 (ms)
+Reading latency: 10023.132413 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18316.274950 (ms)
+Reading latency: 9952.091137 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18311.907762 (ms)
+Reading latency: 9950.183297 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18341.042845 (ms)
+Reading latency: 9970.051901 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18288.767721 (ms)
+Reading latency: 10074.184421 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18382.968745 (ms)
+Reading latency: 10057.327130 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18483.629129 (ms)
+Reading latency: 10193.501759 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18577.645535 (ms)
+Reading latency: 9926.104396 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18427.495691 (ms)
+Reading latency: 9827.704516 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18362.378808 (ms)
+Reading latency: 9879.340455 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18374.508717 (ms)
+Reading latency: 9786.467143 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18354.516173 (ms)
+Reading latency: 9908.172098 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18291.725124 (ms)
+Reading latency: 9834.786307 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18363.777950 (ms)
+Reading latency: 9993.746662 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18439.939088 (ms)
+Reading latency: 9800.404137 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18383.676304 (ms)
+Reading latency: 9727.705820 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18399.936029 (ms)
+Reading latency: 9895.491634 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18463.208218 (ms)
+Reading latency: 9636.417653 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18283.450471 (ms)
+Reading latency: 9614.117235 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18332.318780 (ms)
+Reading latency: 9730.228621 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18353.378455 (ms)
+Reading latency: 10003.224112 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18377.301932 (ms)
+Reading latency: 9908.609132 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18439.093524 (ms)
+Reading latency: 9943.410010 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18393.467279 (ms)
+Reading latency: 9897.963793 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18376.280154 (ms)
+Reading latency: 10068.293587 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18338.510658 (ms)
+Reading latency: 9846.775303 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18382.711806 (ms)
+Reading latency: 9850.601357 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18338.220474 (ms)
+Reading latency: 9835.017176 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18357.064147 (ms)
+Reading latency: 9809.630889 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18252.969960 (ms)
+Reading latency: 9741.109389 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18397.945634 (ms)
+Reading latency: 9818.019862 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18462.039325 (ms)
+Reading latency: 9832.261057 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18384.616405 (ms)
+Reading latency: 9839.812526 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18349.361661 (ms)
+Reading latency: 9988.911384 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18351.680600 (ms)
+Reading latency: 9659.521944 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18455.989745 (ms)
+Reading latency: 9885.408526 (ms)
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 0, Read thread: 32, Write thread lower: 4, Write thread upper: 16, Insert thread: 32, Version: 2
+IPS4o gensort ... 
+Sorting latency: 18383.802099 (ms)
+Reading latency: 9825.210899 (ms)
+

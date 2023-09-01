@@ -1,0 +1,320 @@
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12689.835346 (ms)
+Reading latency: 10540.781980 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12793.609192 (ms)
+Reading latency: 10530.022957 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12722.314952 (ms)
+Reading latency: 10421.102410 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12776.248302 (ms)
+Reading latency: 10853.109414 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12979.067009 (ms)
+Reading latency: 11103.383205 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 13424.833824 (ms)
+Reading latency: 11139.814718 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 13610.664165 (ms)
+Reading latency: 11039.986326 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 13027.599477 (ms)
+Reading latency: 10675.207478 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 13028.811720 (ms)
+Reading latency: 11047.559413 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 80, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 13535.932634 (ms)
+Reading latency: 10629.622635 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12720.091648 (ms)
+Reading latency: 9780.092568 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12725.702050 (ms)
+Reading latency: 10037.160500 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12692.352959 (ms)
+Reading latency: 10241.370297 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 13005.821562 (ms)
+Reading latency: 10023.703452 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12698.169438 (ms)
+Reading latency: 9958.278349 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12721.728310 (ms)
+Reading latency: 10037.738804 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12746.174683 (ms)
+Reading latency: 10043.641750 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12745.115395 (ms)
+Reading latency: 10008.864387 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12793.443502 (ms)
+Reading latency: 10034.937769 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 250, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12733.867816 (ms)
+Reading latency: 10019.854436 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12672.836899 (ms)
+Reading latency: 10124.739389 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12688.181321 (ms)
+Reading latency: 9988.144602 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12814.224791 (ms)
+Reading latency: 10061.849994 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12737.089602 (ms)
+Reading latency: 10012.169364 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12788.016881 (ms)
+Reading latency: 9976.198625 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12647.569590 (ms)
+Reading latency: 10086.082993 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12731.304293 (ms)
+Reading latency: 9963.462350 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12686.842821 (ms)
+Reading latency: 10026.992476 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12751.035537 (ms)
+Reading latency: 10333.318735 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 500, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12830.726279 (ms)
+Reading latency: 10634.134882 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12788.031149 (ms)
+Reading latency: 10077.528275 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12734.367752 (ms)
+Reading latency: 10031.587135 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12686.936316 (ms)
+Reading latency: 10025.366547 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12735.275404 (ms)
+Reading latency: 10062.859546 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12687.258618 (ms)
+Reading latency: 10099.964019 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12709.890493 (ms)
+Reading latency: 10139.874539 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12707.854223 (ms)
+Reading latency: 10070.098572 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12698.191635 (ms)
+Reading latency: 10122.146628 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12727.814418 (ms)
+Reading latency: 10036.414316 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+
+Record num: 400000000, Tree num: 100000, Batch size: 1000, Skew type: 3, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 104
+IPS4o kp_kv ... 
+Sorting latency: 12613.773671 (ms)
+Reading latency: 10068.865023 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967288
+

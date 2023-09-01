@@ -1,0 +1,180 @@
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.424795
+Total MERGE: 3.903469
+Total: 5.328264
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.315718
+Total MERGE: 3.874363
+Total: 5.190081
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.326001
+Total MERGE: 3.919867
+Total: 5.245867
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.317524
+Total MERGE: 3.906554
+Total: 5.224078
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.341421
+Total MERGE: 3.918226
+Total: 5.259648
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.369051
+Total MERGE: 3.996547
+Total: 5.365598
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.328781
+Total MERGE: 3.868889
+Total: 5.197670
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.369988
+Total MERGE: 3.942025
+Total: 5.312013
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.313989
+Total MERGE: 3.903373
+Total: 5.217361
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.337274
+Total MERGE: 3.963510
+Total: 5.300784
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.104777
+Total MERGE: 3.252275
+Total: 4.357052
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.093596
+Total MERGE: 3.219379
+Total: 4.312975
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.221705
+Total MERGE: 3.257163
+Total: 4.478867
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.118318
+Total MERGE: 3.297225
+Total: 4.415543
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.088800
+Total MERGE: 3.262308
+Total: 4.351107
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.034360
+Total MERGE: 3.267337
+Total: 4.301697
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.151570
+Total MERGE: 3.234646
+Total: 4.386216
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.029450
+Total MERGE: 3.261002
+Total: 4.290453
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.005772
+Total MERGE: 3.269255
+Total: 4.275027
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.075313
+Total MERGE: 3.265759
+Total: 4.341073
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.102095
+Total MERGE: 3.486902
+Total: 4.588997
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.138989
+Total MERGE: 3.462656
+Total: 4.601645
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.123193
+Total MERGE: 3.436967
+Total: 4.560160
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.066917
+Total MERGE: 3.478314
+Total: 4.545232
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.052856
+Total MERGE: 3.388751
+Total: 4.441607
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.095497
+Total MERGE: 3.469305
+Total: 4.564802
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.082529
+Total MERGE: 3.470910
+Total: 4.553439
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.093794
+Total MERGE: 3.461922
+Total: 4.555716
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.325742
+Total MERGE: 3.482082
+Total: 4.807824
+
+record size: 128B; recordPtr size: 16B; block size 1: 4000B; block size 2: 3840B; run buffer size: 160mB; merge read buffer size: 120mB; merge write buffer size: 40mB; thread num (read/sort/write): 20/20/5
+====================================:
+Total RUN: 1.185076
+Total MERGE: 3.510771
+Total: 4.695846
+

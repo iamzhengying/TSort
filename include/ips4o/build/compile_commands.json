@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++    -std=c++17 -march=native -O3 -DNDEBUG   -std=gnu++2a -o CMakeFiles/sort_intro_gensort.dir/src/sort_intro_gensort.cpp.o -c /home/zhengy/dev/RTS/ips4o/src/sort_intro_gensort.cpp",
+  "file": "/home/zhengy/dev/RTS/ips4o/src/sort_intro_gensort.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++    -std=c++17 -march=native -O3 -DNDEBUG   -std=gnu++2a -o CMakeFiles/sort_intro_gensort.dir/src/introSort_kp_kv_gensort.cpp.o -c /home/zhengy/dev/RTS/ips4o/src/introSort_kp_kv_gensort.cpp",
+  "file": "/home/zhengy/dev/RTS/ips4o/src/introSort_kp_kv_gensort.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++    -std=c++17 -march=native -O3 -DNDEBUG   -std=gnu++2a -o CMakeFiles/sort_intro_gensort.dir/home/zhengy/dev/RTS/utils_timer.cpp.o -c /home/zhengy/dev/RTS/utils_timer.cpp",
+  "file": "/home/zhengy/dev/RTS/utils_timer.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++   -I/home/zhengy/dev/RTS/ips4o/include -isystem /opt/intel/oneapi/tbb/2021.6.0/include  -std=c++17 -march=native -O3 -DNDEBUG   -pthread -std=gnu++2a -o CMakeFiles/sort_ips4o_gensort.dir/src/sort_ips4o_gensort.cpp.o -c /home/zhengy/dev/RTS/ips4o/src/sort_ips4o_gensort.cpp",
+  "file": "/home/zhengy/dev/RTS/ips4o/src/sort_ips4o_gensort.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++   -I/home/zhengy/dev/RTS/ips4o/include -isystem /opt/intel/oneapi/tbb/2021.6.0/include  -std=c++17 -march=native -O3 -DNDEBUG   -pthread -std=gnu++2a -o CMakeFiles/sort_ips4o_gensort.dir/src/ips4o_kp_kv_gensort.cpp.o -c /home/zhengy/dev/RTS/ips4o/src/ips4o_kp_kv_gensort.cpp",
+  "file": "/home/zhengy/dev/RTS/ips4o/src/ips4o_kp_kv_gensort.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++   -I/home/zhengy/dev/RTS/ips4o/include -isystem /opt/intel/oneapi/tbb/2021.6.0/include  -std=c++17 -march=native -O3 -DNDEBUG   -pthread -std=gnu++2a -o CMakeFiles/sort_ips4o_gensort.dir/home/zhengy/dev/RTS/utils_timer.cpp.o -c /home/zhengy/dev/RTS/utils_timer.cpp",
+  "file": "/home/zhengy/dev/RTS/utils_timer.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++    -std=c++17 -march=native -O3 -DNDEBUG   -std=gnu++2a -o CMakeFiles/sort_intro.dir/src/sort_intro.cpp.o -c /home/zhengy/dev/RTS/ips4o/src/sort_intro.cpp",
+  "file": "/home/zhengy/dev/RTS/ips4o/src/sort_intro.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++    -std=c++17 -march=native -O3 -DNDEBUG   -std=gnu++2a -o CMakeFiles/sort_intro.dir/src/introSort_kp_kv.cpp.o -c /home/zhengy/dev/RTS/ips4o/src/introSort_kp_kv.cpp",
+  "file": "/home/zhengy/dev/RTS/ips4o/src/introSort_kp_kv.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++    -std=c++17 -march=native -O3 -DNDEBUG   -std=gnu++2a -o CMakeFiles/sort_intro.dir/home/zhengy/dev/RTS/utils_timer.cpp.o -c /home/zhengy/dev/RTS/utils_timer.cpp",
+  "file": "/home/zhengy/dev/RTS/utils_timer.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++   -I/home/zhengy/dev/RTS/ips4o/include -isystem /opt/intel/oneapi/tbb/2021.6.0/include  -std=c++17 -march=native -O3 -DNDEBUG   -pthread -std=gnu++2a -o CMakeFiles/sort_ips4o.dir/src/sort_ips4o.cpp.o -c /home/zhengy/dev/RTS/ips4o/src/sort_ips4o.cpp",
+  "file": "/home/zhengy/dev/RTS/ips4o/src/sort_ips4o.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++   -I/home/zhengy/dev/RTS/ips4o/include -isystem /opt/intel/oneapi/tbb/2021.6.0/include  -std=c++17 -march=native -O3 -DNDEBUG   -pthread -std=gnu++2a -o CMakeFiles/sort_ips4o.dir/src/ips4o_kp_kv.cpp.o -c /home/zhengy/dev/RTS/ips4o/src/ips4o_kp_kv.cpp",
+  "file": "/home/zhengy/dev/RTS/ips4o/src/ips4o_kp_kv.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++   -I/home/zhengy/dev/RTS/ips4o/include -isystem /opt/intel/oneapi/tbb/2021.6.0/include  -std=c++17 -march=native -O3 -DNDEBUG   -pthread -std=gnu++2a -o CMakeFiles/sort_ips4o.dir/src/ips4o_kp_kv_nodram.cpp.o -c /home/zhengy/dev/RTS/ips4o/src/ips4o_kp_kv_nodram.cpp",
+  "file": "/home/zhengy/dev/RTS/ips4o/src/ips4o_kp_kv_nodram.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++   -I/home/zhengy/dev/RTS/ips4o/include -isystem /opt/intel/oneapi/tbb/2021.6.0/include  -std=c++17 -march=native -O3 -DNDEBUG   -pthread -std=gnu++2a -o CMakeFiles/sort_ips4o.dir/src/ips4o_kv_kv.cpp.o -c /home/zhengy/dev/RTS/ips4o/src/ips4o_kv_kv.cpp",
+  "file": "/home/zhengy/dev/RTS/ips4o/src/ips4o_kv_kv.cpp"
+},
+{
+  "directory": "/home/zhengy/dev/RTS/ips4o/build",
+  "command": "/usr/bin/c++   -I/home/zhengy/dev/RTS/ips4o/include -isystem /opt/intel/oneapi/tbb/2021.6.0/include  -std=c++17 -march=native -O3 -DNDEBUG   -pthread -std=gnu++2a -o CMakeFiles/sort_ips4o.dir/home/zhengy/dev/RTS/utils_timer.cpp.o -c /home/zhengy/dev/RTS/utils_timer.cpp",
+  "file": "/home/zhengy/dev/RTS/utils_timer.cpp"
+}
+]

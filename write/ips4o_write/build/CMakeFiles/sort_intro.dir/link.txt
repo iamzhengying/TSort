@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -march=native -O3 -DNDEBUG   CMakeFiles/sort_intro.dir/src/sort_intro.cpp.o CMakeFiles/sort_intro.dir/src/introSort_kp_kv.cpp.o CMakeFiles/sort_intro.dir/home/zhengy/dev/RTS/utils_timer.cpp.o  -o sort_intro  -ltbb -lpthread -lpmem 

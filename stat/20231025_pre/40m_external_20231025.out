@@ -1,0 +1,240 @@
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 0, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1422.389446 (ms)
+Reading latency: 9364.303537 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 0, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1407.750154 (ms)
+Reading latency: 9170.720549 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 0, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1451.385094 (ms)
+Reading latency: 9184.348532 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 0, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1403.151400 (ms)
+Reading latency: 8749.870288 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 0, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1437.961291 (ms)
+Reading latency: 9235.148950 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 0, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1561.043416 (ms)
+Reading latency: 9349.521145 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 0, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1426.026517 (ms)
+Reading latency: 9182.307063 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 0, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1549.324587 (ms)
+Reading latency: 9217.358644 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 0, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1442.625809 (ms)
+Reading latency: 9209.701011 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 0, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1477.079797 (ms)
+Reading latency: 9277.045485 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 2, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1319.020232 (ms)
+Reading latency: 3103.891963 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 2, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1302.043392 (ms)
+Reading latency: 3118.905855 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 2, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1334.666702 (ms)
+Reading latency: 3105.095870 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 2, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1305.764555 (ms)
+Reading latency: 3107.943722 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 2, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1326.188929 (ms)
+Reading latency: 3120.787377 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 2, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1309.240499 (ms)
+Reading latency: 3081.548858 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 2, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1318.870072 (ms)
+Reading latency: 3107.468256 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 2, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1321.934154 (ms)
+Reading latency: 3128.089159 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 2, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1360.258398 (ms)
+Reading latency: 3121.515239 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 2, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1319.166385 (ms)
+Reading latency: 3124.604376 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1352.983425 (ms)
+Reading latency: 5332.942214 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1337.365102 (ms)
+Reading latency: 5374.239366 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1370.380671 (ms)
+Reading latency: 5349.203572 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1345.179743 (ms)
+Reading latency: 5355.538619 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1361.272605 (ms)
+Reading latency: 5330.784048 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1335.669462 (ms)
+Reading latency: 5372.478840 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1381.495819 (ms)
+Reading latency: 5535.296851 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1339.088648 (ms)
+Reading latency: 5346.583753 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1341.037758 (ms)
+Reading latency: 5352.829893 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
+Record num: 40000000, Tree num: 10000, Batch size: 500, Skew type: 50, Read thread: 32, Initial thread: 16, Insert thread: 32, Traversal thread: 4, Version: 105
+External Sort...
+Sorting latency: 1316.498273 (ms)
+Reading latency: 5552.252460 (ms)
+Elements are sorted: true
+ -- The first element is: 3
+ -- The last element is: 4294967246
+
